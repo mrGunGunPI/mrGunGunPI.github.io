@@ -1,11 +1,27 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.doomscroll.app.final",
-    "sha256_cert_fingerprints": [
-      "64:2E:44:08:6A:71:F9:F7:1D:F2:25:3F:D5:47:5E:48:C2:D4:0D:AC:81:20:4B:A2:55:DD:FB:A9:59:19:38:EA",
-      "04:05:38:FE:DB:88:60:84:14:B9:CE:64:03:99:46:0F:E4:19:49:9C:A4:B1:13:DE:FD:ED:FE:6A:1F:39:DA:6C"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.doomscroll.app",
+      "sha256_cert_fingerprints": [
+        "64:2E:44:08:6A:71:F9:F7:1D:F2:25:3F:D5:47:5E:48:C2:D4:0D:AC:81:20:4B:A2:55:DD:FB:A9:59:19:38:EA",
+        "04:05:38:FE:DB:88:60:84:14:B9:CE:64:03:99:46:0F:E4:19:49:9C:A4:B1:13:DE:FD:ED:FE:6A:1F:39:DA:6C"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.doomscroll.app.final",
+      "sha256_cert_fingerprints": [
+        "64:2E:44:08:6A:71:F9:F7:1D:F2:25:3F:D5:47:5E:48:C2:D4:0D:AC:81:20:4B:A2:55:DD:FB:A9:59:19:38:EA"
+      ]
+    }
   }
-}]
+]

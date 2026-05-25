@@ -23,5 +23,13 @@
         "64:2E:44:08:6A:71:F9:F7:1D:F2:25:3F:D5:47:5E:48:C2:D4:0D:AC:81:20:4B:A2:55:DD:FB:A9:59:19:38:EA"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.cardradar.app",
+      "sha256_cert_fingerprints": ["HIER_KOMMT_DER_CARDRADAR_FINGERABDRUCK_HIN"]
+    }
   }
 ]

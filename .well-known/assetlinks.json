@@ -29,7 +29,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "de.cardradar.app",
-      "sha256_cert_fingerprints": ["HIER_KOMMT_DER_CARDRADAR_FINGERABDRUCK_HIN"]
+      "sha256_cert_fingerprints": ["04:05:38:FE:DB:88:60:84:14:B9:CE:64:03:99:46:0F:E4:19:49:9C:A4:B1:13:DE:FD:ED:FE:6A:1F:39:DA:6C"]
     }
   }
 ]

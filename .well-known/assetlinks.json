@@ -38,16 +38,19 @@
       ]
     }
   }
+ [
   {
     "relation": [
-      "delegate_permission/common.handle_all_urls"
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
     ],
     "target": {
       "namespace": "android_app",
       "package_name": "de.cardradar.app",
       "sha256_cert_fingerprints": [
-        "04:05:38:FE:DB:88:60:84:14:B9:CE:64:03:99:46:0F:E4:19:49:9C:A4:B1:13:DE:FD:ED:FE:6A:1F:39:DA:6C"
+        "02:F3:3B:63:03:81:59:2C:B9:0C:92:16:F7:59:3B:6F:64:F2:20:D0:4F:66:A4:46:BC:8D:7C:38:1E:FC:9F:5A"
       ]
     }
-  },
+  }
+]
 ]
